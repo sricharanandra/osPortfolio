@@ -1,8 +1,8 @@
-# React + Vite
+# osPortfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my portfolio website designed to look like Windows 7 OS. I am constantly working to improve this project to closely resemble to aesthetics of Win 7.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Currently
+   - designing a start menu to pop up on click with the proper design requirements in mind
+   - implementing a mail feature for you to send me emails from the website itself
+  
