@@ -23,7 +23,7 @@ function Desktop() {
             )}
 
             <div className="taskbar fixed bottom-0 w-full h-14 bg-gray-300 bg-opacity-30 backdrop-filter backdrop-blur-lg flex justify-between items-center px-4">
-                <button className="start-button"><img src="src/assets/start.jpg" alt="start-icon" className="h-14 w-20 " /></button>
+                <button className="start-button h-full"><img src="src/assets/start.png" alt="start-icon" className="h-full" /></button>
                 <div className="clock">12:00 PM</div>
             </div>
         </div>
